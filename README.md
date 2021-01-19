@@ -1,4 +1,4 @@
-# Multiprogramming-OS-Simulation
+# Multiprogramming OS Simulation
 
 **By [Hassan Jaafar](https://github.com/Hassan-Jaafar) and [Ahmad Almosallm](https://github.com/Ahmad-Almosallam)**
 ## The aim of the project
