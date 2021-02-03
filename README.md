@@ -1,6 +1,6 @@
 # Multiprogramming OS Simulation
 
-**By [Hassan Jaafar](https://github.com/Hassan-Jaafar) and [Ahmad Almosallm](https://github.com/Ahmad-Almosallam)**
+**By [Hassan Jaafar](https://github.com/Hassan-Jaafar) and [Ahmad Al-Mosallam](https://github.com/Ahmad-Almosallam)**
 ## The aim of the project
 This project simulates the behavior of the multiprogramming operating system and use
 CPU scheduler, and CPU Execution. At the end of the simulation, it’s expected to output
